@@ -4,6 +4,9 @@
 
 ## Hardware
 
+### Drivetrain
+
+![](Drivetrain Slide.png)
 
 ## Software
 
