@@ -6,7 +6,7 @@
 
 ### Drivetrain
 
-![](Drivetrain Slide.png)
+![](file:///C:/Users/risha/Downloads/FTC/Website/Drivetrain%20Slide.pdf)
 
 ## Software
 
