@@ -1,12 +1,13 @@
 # Magic Bots 18504
 
-# Ultimate Goal
+
+# Power Play
 
 ## Hardware
 
 ### Drivetrain
 
-![Drivetrain Picture](https://github.com/MagicBots18504/magicbots18504.github.io/files/9693939/Drivetrain.Slide.pdf)
+After hours of discussion and brainstorming, we decided to use a GoBilda Mecanum Drivetrain for our robot this season. The reason for this choice is that it is easier to control and has a wide range of movement. At first, we decided to create a differential swerve drivetrain because of the high precision it has. We knew it would be extremely difficuly because it has a very complex system. It would be hard to program and build. As we went on, we changed to a mecanum drivetrain because we also had 2 years of experience with it, so it would be easier to program. All in all, our final drive train is a GoBilda Mecanum Drivetrain using the Gobilda Strafer Kit. Here is a picture of our drivetrain:
 
 ## Software
 
@@ -37,9 +38,15 @@
 
 
 
-# Power Play
+
+
+
+# Ultimate Goal
 
 ## Hardware
+
+### Drivetrain
+
 
 
 ## Software
@@ -49,7 +56,6 @@
 
 
 ## Outreach
-
 
 
 
